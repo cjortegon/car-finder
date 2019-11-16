@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Finder</string>
+    <string name="about">About Us</string>
+    <string name="help">Hilfe</string>
+    <string name="rate">Rate App</string>
+    <string name="contact">Kommentar hier</string>
+    <string name="save_car_location">Sparen Sie mein Auto Lage</string>
+    <string name="distance_to_car">Entfernung zum Auto</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="my_location">Mein Standort</string>
+    <string name="car_location">Auto Standort</string>
+    <string name="turn_on_gps">Schalten Sie GPS</string>
+    <string name="help_body">Zuerst müssen Sie die GPS des Telefons (Drücken Sie die GPS-Taste und gehen Sie zu Konfiguration) zu ermöglichen. Warten auf GPS Ihren Standort zu finden. Wenn Sie bereit sind, lassen Sie Ihr Auto drücken Sie die untere Taste, und schließen Sie die App. Das nächste Mal, wenn Sie die Kompassnadel geöffnet werden, um Ihr Auto Lage weisen.</string>
+    <string name="more_apps">Weitere kostenlose Apps</string>
+    <string name="remind_me_later">Später erinnern</string>
+    <string name="would_you_rate">Möchten Sie bewerten?</string>
+    <string name="rating_for_free">Bewertung dieser App helfen uns zu mehr kostenlosen Apps.</string>
+    <string name="location_saved">Ort gespeichert!</string>
+    <string name="location_not_available">Die Lage ist noch nicht verfügbar</string>
+    <string name="use_network_locations">Verwenden Sie Netzwerkstandorte</string>
+
+</resources>

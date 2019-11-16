@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Finder</string>
+    <string name="about">حول بنا</string>
+    <string name="help">مساعدة</string>
+    <string name="rate">معدل التطبيق</string>
+    <string name="contact">تعليقات</string>
+    <string name="save_car_location">حفظ الموقع سيارتي</string>
+    <string name="distance_to_car">المسافة إلى سيارة</string>
+    <string name="unknown">غير معروف</string>
+    <string name="my_location">مكاني</string>
+    <string name="car_location">موقع السيارات</string>
+    <string name="turn_on_gps">بدوره على نظام تحديد المواقع</string>
+    <string name="help_body">تحتاج أولا إلى تمكين نظام تحديد المواقع في الهاتف (اضغط على زر GPS والذهاب إلى التكوين). الانتظار لتحديد المواقع للعثور على موقعك. عندما تحصل على استعداد لترك الصحافة سيارتك على زر أسفل وإغلاق التطبيق. في المرة القادمة التي فتحها إبرة البوصلة سيتم مشيرا إلى موقع سيارتك.</string>
+    <string name="more_apps">تطبيقات أكثر حرية</string>
+    <string name="remind_me_later">أذكر لي في وقت لاحق</string>
+    <string name="would_you_rate">تريد أن تقيم؟</string>
+    <string name="rating_for_free">تصنيف هذا التطبيق مساعدتنا على جعل التطبيقات أكثر حرية</string>
+    <string name="location_saved">الموقع تم الحفظ</string>
+    <string name="location_not_available">المكان ليست متاحة بعد</string>
+    <string name="use_network_locations">استخدام مواقع الشبكة</string>
+
+</resources>

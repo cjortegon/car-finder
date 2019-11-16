@@ -1,0 +1,29 @@
+<resources>
+    
+    <color name="transparent_white">#AAFFFFFF</color>
+
+    <!-- Common -->
+    <color name="white">#F7F7F7</color>
+    <color name="light_white">#D6D7D8</color>
+    <color name="black">#000000</color>
+    <color name="black_translucent">#AA000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="dark_blue">#001838</color>
+    <color name="light_blue">#AA4499CC</color>
+    <color name="blue1">#00FFFF</color>
+    <color name="blue2">#33CCFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="teal">#008080</color>
+    <color name="orange">#FFA500</color>
+    <color name="dark_rat1">#282828</color>
+    <color name="dark_rat2">#181818</color>
+    <color name="grayScale">#999999</color>
+    <color name="sepiaScale">#B19979</color>
+    <color name="redScale">#CF082B</color>
+    <color name="greenyScale">#5ECCA4</color>
+    <color name="blueScale">#3ECCE7</color>
+    <color name="yellowScale">#EFDC43</color>
+
+</resources>

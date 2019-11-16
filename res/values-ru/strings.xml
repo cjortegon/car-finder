@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Автомобиль искатель</string>
+    <string name="about">О нас</string>
+    <string name="help">Помогите</string>
+    <string name="rate">Оценить App</string>
+    <string name="contact">Комментарий здесь</string>
+    <string name="save_car_location">Сохранить свое местоположение автомобиля</string>
+    <string name="distance_to_car">Расстояние до автомобиля</string>
+    <string name="unknown">неизвестный</string>
+    <string name="my_location">Мое местоположение</string>
+    <string name="car_location">Местонахождение автомобиля</string>
+    <string name="turn_on_gps">Включите GPS</string>
+    <string name="help_body">Прежде всего, необходимо включить КПК вашего телефона (Нажмите кнопку GPS и перейти к конфигурации). Ждать, чтобы Gps, чтобы найти место. Когда вы готовы, чтобы оставить ваш автомобиль нажмите нижнюю кнопку и закрыть приложение. В следующий раз вы открываете ему компаса будет указывать к вашему положению автомобиля.</string>
+    <string name="more_apps">Больше бесплатных приложений</string>
+    <string name="remind_me_later">Напомнить позже</string>
+    <string name="would_you_rate">Хотите, чтобы оценить?</string>
+    <string name="rating_for_free">Рейтинг это приложение поможет нам сделать больше бесплатных приложений.</string>
+    <string name="location_saved">Расположение Сохраненные!</string>
+    <string name="location_not_available">Расположение пока не доступна</string>
+    <string name="use_network_locations">Используйте мест в сети,</string>
+
+</resources>

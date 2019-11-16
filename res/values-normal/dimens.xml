@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Lines -->
+    <dimen name="micro_space">2dp</dimen>
+    <dimen name="line_thin">3dp</dimen>
+    <dimen name="line_gross">5dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_diminute">4dp</dimen>
+    <dimen name="margin_xsmall">8dp</dimen>
+    <dimen name="margin_small">11dp</dimen>
+    <dimen name="margin_default">13dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+    <!-- Sizes -->
+    <dimen name="size_xxs">18dp</dimen>
+    <dimen name="size_xs">23dp</dimen>
+    <dimen name="size_s">27dp</dimen>
+    <dimen name="size_m">31dp</dimen>
+    <dimen name="size_l">36dp</dimen>
+    <dimen name="size_xl">41dp</dimen>
+    <dimen name="size_xxl">47dp</dimen>
+
+    <!-- Bodies -->
+    <dimen name="body_petit">53dp</dimen>
+    <dimen name="body_small">67dp</dimen>
+    <dimen name="body_average">78dp</dimen>
+    <dimen name="body_big">89dp</dimen>
+    <dimen name="body_bigger">100dp</dimen>
+    <dimen name="body_huge">111dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_ant">3pt</dimen>
+    <dimen name="text_size_xxs">4.8pt</dimen>
+    <dimen name="text_size_xsmall">5.6pt</dimen>
+    <dimen name="text_size_small">7.4pt</dimen>
+    <dimen name="text_size_medium">9.2pt</dimen>
+    <dimen name="text_size_large">10.8pt</dimen>
+    <dimen name="text_size_xlarge">12.4pt</dimen>
+    <dimen name="text_size_huge">14pt</dimen>
+    <dimen name="text_size_max">17.6pt</dimen>
+
+</resources>

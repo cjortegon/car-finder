@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Finder</string>
+    <string name="about">About Us</string>
+    <string name="help">Aiutare</string>
+    <string name="rate">Cualificarsi app</string>
+    <string name="contact">Commenta qui</string>
+    <string name="save_car_location">Salvate la mia posizione auto</string>
+    <string name="distance_to_car">Distanza da auto</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="my_location">La mia posizione</string>
+    <string name="car_location">Posizione del auto</string>
+    <string name="turn_on_gps">Accendere il GPS</string>
+    <string name="help_body">In primo luogo è necessario abilitare il GPS del telefono (Premere il tasto GPS e passare alla configurazione). Attendere per Gps per trovare la posizione. Quando si è pronti a lasciare la vostra auto premere il pulsante in basso e chiudere la applicazione. La prossima volta che si apre l ago della bussola punterà alla vostra posizione auto.</string>
+    <string name="more_apps">Apps gratuite più</string>
+    <string name="remind_me_later">Ricorda in seguito</string>
+    <string name="would_you_rate">Vuoi votare?</string>
+    <string name="rating_for_free">Valutazione questa app ci aiuteranno applicazioni gratuite più.</string>
+    <string name="location_saved">Posizione salvata!</string>
+    <string name="location_not_available">La posizione non è ancora disponibile</string>
+    <string name="use_network_locations">Utilizzare località di rete</string>
+
+</resources>
